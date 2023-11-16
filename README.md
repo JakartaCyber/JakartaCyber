@@ -9,6 +9,7 @@ pkg install python3 (atau python aj gpp)
 pkg install pip
 git clone https://github.com/JakartaCyber/JakartaCyber.git
 ls
+
 cd JakartaCyber 
 
 ls
